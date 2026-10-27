@@ -18,7 +18,7 @@ PAGE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title}</title>
+<title>{title}｜公明党</title>
 <meta name="description" content="{title}の公式リンク集">
 <style>
 :root {{ --c: {color}; }}
