@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "kajiwara",
+    "name": "かじわら一哉",
+    "area": "徳島県議会議員",
+    "color": "#1d2c6b",
+    "links": {
+      "hp": "https://www.komei.or.jp/km/warazo/",
+      "x": "https://x.com/kajiwara3811",
+      "instagram": "https://www.instagram.com/kajiwarakazuya2026/",
+      "facebook": "https://www.facebook.com/kazuya.kajiwara.90",
+      "line": "https://liff.line.me/1645278921-kWRPP32q/?accountId=165vmehh",
+      "join": "https://script.google.com/macros/s/AKfycbwjkREVhN-xscTixxgO5liEigXDnFJj2sE4ZfuPH33lpxNXeBAfjcvhX-Q82bYkH_QNwg/exec"
+    }
+  },
+  {
+    "slug": "miyamoto",
+    "name": "宮本さなえ",
+    "area": "徳島市",
+    "color": "#2a9fd8",
+    "links": {
+      "hp": "https://miyamoto-hp.miyamoto-sanae.workers.dev/",
+      "x": "https://x.com/Miyamotoonxg",
+      "instagram": "https://www.instagram.com/miyamotosanae520/",
+      "facebook": "https://www.facebook.com/sanae.miyamoto.750"
+    }
+  },
+  {
+    "slug": "fujita",
+    "name": "藤田まゆみ",
+    "area": "徳島市議会議員",
+    "color": "#e8780c",
+    "links": {
+      "hp": "https://fujita-hp.fujita-mayumi.workers.dev/",
+      "x": "https://x.com/fmayumisan",
+      "instagram": "https://www.instagram.com/mayumi___0117/",
+      "facebook": "https://www.facebook.com/mayumi.fujita.tokushima"
+    }
+  },
+  {
+    "slug": "kori",
+    "name": "こおり真紀子",
+    "area": "徳島市",
+    "color": "#1fa5a0",
+    "links": {
+      "hp": "https://koori-hp.makimaki2006.workers.dev/",
+      "x": "https://x.com/kori18makiko",
+      "instagram": "https://www.instagram.com/makimaki9777/",
+      "facebook": "https://www.facebook.com/kori18makiko"
+    }
+  },
+  {
+    "slug": "nitta",
+    "name": "新田ひろゆき",
+    "area": "徳島市",
+    "color": "#1b8fd6",
+    "links": {
+      "hp": "https://nitta-hp.nicchan.workers.dev/",
+      "x": "https://x.com/nicchan_nitta",
+      "instagram": "https://www.instagram.com/nicchan_nitta/",
+      "facebook": "https://www.facebook.com/hiroyuki.nitta727"
+    }
+  },
+  {
+    "slug": "kuroshita",
+    "name": "くろした広宣",
+    "area": "徳島市議会議員",
+    "color": "#1f5fb0",
+    "links": {
+      "hp": "https://www.komei.or.jp/km/kuroshita-hironobu-tokushima/",
+      "x": "https://x.com/HHironov",
+      "instagram": "https://www.instagram.com/h_kuroshita",
+      "line": "https://lin.ee/AMCKrwd"
+    }
+  },
+  {
+    "slug": "shinomiya",
+    "name": "四宮ゆうじ",
+    "area": "小松島市議会議員",
+    "color": "#2e9b3e",
+    "links": {
+      "facebook": "https://www.facebook.com/shinomiyayuuji"
+    }
+  },
+  {
+    "slug": "takeichi",
+    "name": "武市なみこ",
+    "area": "石井町議会議員",
+    "color": "#e0457b",
+    "links": {
+      "hp": "https://www.komei.or.jp/km/takeichi-namiko-ishii/",
+      "facebook": "https://www.facebook.com/namiko.takeichi"
+    }
+  },
+  {
+    "slug": "sasaki",
+    "name": "佐々木のりこ",
+    "area": "北島町議会議員",
+    "color": "#d7262e",
+    "links": {
+      "hp": "https://www.komei.or.jp/km/sasaki-noriko-kitajima/",
+      "x": "https://x.com/NoriS620",
+      "instagram": "https://www.instagram.com/sasaki_noriko0620",
+      "facebook": "https://www.facebook.com/noriko.sasaki.0620"
+    }
+  }
+]
